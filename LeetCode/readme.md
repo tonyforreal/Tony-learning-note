@@ -6,3 +6,6 @@
 
 * MinStack
   * [題目](https://leetcode.com/problems/min-stack/)
+
+* Insertion Sort List
+  *[題目](https://leetcode.com/problems/insertion-sort-list/)
