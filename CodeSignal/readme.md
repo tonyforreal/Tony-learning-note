@@ -12,3 +12,10 @@
 ## 3. ![](/CodeSignal/images/Python%203.png)
 ### 解析
 a == not b是錯的，因為python會先處理==，故正確方式應該為 a == (not b)
+
+## 4. ![](/CodeSignal/images/Python%204.png)
+### 解析
+Java中的(/)結果是除法中的商，且只取整數位;Python中的(//)則是會將取到的商的小數位無條件取小一位整數(也就是往負的方向進位)，所以15/-4=-3但15//-4=-4
+
+## 5. ![](/CodeSignal/images/Python%205.png)
+### 解析
