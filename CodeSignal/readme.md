@@ -11,3 +11,4 @@
 
 ## 3. ![](/CodeSignal/images/Python%203.png)
 ### 解析
+a == not b是錯的，因為python會先處理==，故正確方式應該為 a == (not b)
