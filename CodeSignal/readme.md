@@ -20,3 +20,6 @@ Java中的(/)結果是除法中的商，且只取整數位;Python中的(//)則�
 ## 5. ![](/CodeSignal/images/Python%205.png)
 ### 解析
 n.bit_length()為python求二進位的長度
+
+## 6. ![](/CodeSignal/images/Python%206.png)
+### 解析
