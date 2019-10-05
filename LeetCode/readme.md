@@ -7,7 +7,8 @@
 
 ### MinStack [題目](https://leetcode.com/problems/min-stack/)
 Run code的時候沒問題但是程式碼太雜亂所以時間機制沒辦法通過。
-> [解答1](https://github.com/tonyforreal/Tony-learning-note/blob/master/LeetCode/Minstack1.py)
+> [我的解答1](https://github.com/tonyforreal/Tony-learning-note/blob/master/LeetCode/Minstack1.py)
   
 
 ### Implement Queue using Stacks [題目](https://leetcode.com/problems/implement-queue-using-stacks/)
+>[我的解答](https://github.com/tonyforreal/Tony-learning-note/blob/master/LeetCode/Queue.py)
