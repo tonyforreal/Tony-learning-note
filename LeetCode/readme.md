@@ -17,4 +17,6 @@ Run code的時候沒問題但是程式碼太雜亂所以時間機制沒辦法通
 
 
 ### 4.Sort an Array [題目](https://leetcode.com/problems/sort-an-array/submissions/)
+![](/LeetCode/Summits/SortanArray.png)
 >[我的解答]()
+
