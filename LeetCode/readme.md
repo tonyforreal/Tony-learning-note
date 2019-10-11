@@ -6,7 +6,7 @@
 
 
 ### 2.MinStack [題目](https://leetcode.com/problems/min-stack/)
-> Run code的時候沒問題但是程式碼太雜亂所以時間機制沒辦法通過。
+>Run code的時候沒問題但是程式碼太雜亂所以時間機制沒辦法通過。
 ![](/LeetCode/Summits/minstack.png)
 * [我的解答1](https://github.com/tonyforreal/Tony-learning-note/blob/master/LeetCode/Minstack1.py)
   
