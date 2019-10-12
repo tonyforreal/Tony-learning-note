@@ -5,5 +5,5 @@ class Solution:
       else:
           pivot = nums[0]
           less = [i for i in nums[1:] if i <= pivot]
-          greater = [i for i in nums[1:] if i > pivot]
-          return self.sortArray(less) + [pivot] + self.sortArray(greater)
+          more = [i for i in nums[1:] if i > pivot]
+          return self.sortArray(less) + [pivot] + self.sortArray(more)
