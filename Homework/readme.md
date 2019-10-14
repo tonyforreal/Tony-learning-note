@@ -8,5 +8,5 @@
 ### 解題過程：
 >卡比較久的地方是要如何重複選擇pivot值與分類的動作
 ### [程式碼](https://github.com/tonyforreal/Tony-learning-note/blob/master/Homework/QuickSort.ipynb)
-### 流程圖
+* 流程圖
 ![](/Homework/images/quicksort%20flowchart.jpg)
