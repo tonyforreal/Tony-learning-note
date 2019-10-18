@@ -1,7 +1,7 @@
 # Homework1 (10/18)
 > 作業區
 
-## Quick Sort [程式碼](https://nbviewer.jupyter.org/github/tonyforreal/Tony-learning-note/blob/master/Homework/QuickSort.ipynb)
+## Quick Sort 
 
 ### 解題觀念：
 ![](/Homework/images/quicksort.png)
