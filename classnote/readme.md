@@ -1,7 +1,7 @@
 # 目錄：
-* [Stack&Queue](#stackqueue)
-* [Insertion Sort](#insertion-sort)
-* [Heap Sort](#heap-sort)
+* [Stack&Queue](#stackqueue0923-0929)
+* [Insertion Sort](#insertion-sort0930-1006)
+* [Heap Sort](#heap-sort1014-1020)
   * [Heap](#heap)
   * [Heapify](#maxheapify)
 
