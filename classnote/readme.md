@@ -39,23 +39,23 @@
 
 `MaxHeapify()`的功能，是要「由上而下」地，以Max Heap的規則(**root**的數值「大於」兩個**child**的數值)，調整矩陣。
 
-以為例，觀察subtree「index($2$)-index($4$)-index($5$)」之「數值」：
+以為例，觀察subtree「index(2)-index(4)-index(5)」之「數值」：
 
-* root：index($i=2$)為$1$
-* leftchild：index($2i=4$)為$9$
-* rightchild：index($2i+1=5$)為$4$
+* root：index(i=2)為1
+* leftchild：index(2i=4)為9
+* rightchild：index(2i+1=5)為4
 
-不符合Max Heap規則，所以要想辦法把這三個數值中的「最大值」，調整到index($i=2$)，也就是這棵subtree的**root**。
+不符合Max Heap規則，所以要想辦法把這三個數值中的「最大值」，調整到index(i=2)，也就是這棵subtree的**root**。
 
 方法如下：
 
 * 找到這三者的最大值，並以`int largest`記錄該最大值的index。
-    * 圖二(a)中，把`largest`記錄為index($4$)。
+    * 圖二(a)中，把`largest`記錄為index(4)。
 * 將index(root)與index(largest)這兩個node互換位置，如此一來，當前的subtree必定能滿足Max Heap規則。
-    * 圖二(b)中，將index($2$)與index($4$)的node互換。
-    * subtree「index($2$)-index($4$)-index($5$)」的數值分別為「$9-1-4$」，符合Max Heap。
+    * 圖二(b)中，將index(2)與index(4)的node互換。
+    * subtree「index(2)-index(4)-index(5)」的數值分別為「9-1-4」，符合Max Heap。
 * 繼續以index(largest)當作新的subtree的root，檢查新的subtree是否符合Max Heap規則。
-    * 圖二(b)中，subtree「index($4$)-index($8$)-index($9$)」再次不滿足Max Heap，便重複上述步驟，得到圖二(c)。
+    * 圖二(b)中，subtree「index(4)-index(8)-index(9)」再次不滿足Max Heap，便重複上述步驟，得到圖二(c)。
 
 如此一來，有被`MaxHeapify()`檢查過的subtree，都會符合Max Heap規則。
 因此，只要對所有「具有child的node」檢查一次`MaxHeapify()`，便能夠把一個任意矩陣調整成Max Heap
