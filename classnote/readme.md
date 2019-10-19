@@ -78,8 +78,11 @@
 * 重複上述步驟，將index(4)與index(9)的node互換，得到下圖。
  ![](/classnote/images/heap3.png)
  
-如此一來，有被`MaxHeapify()`檢查過的subtree，都會符合Max Heap規則。因此，只要對所有「具有child的node」檢查一次`MaxHeapify()`，便能夠把一個任意矩陣調整成Max Heap。
+> 如此一來，有被`MaxHeapify()`檢查過的subtree，都會符合Max Heap規則。因此，只要對所有「具有child的node」檢查一次`MaxHeapify()`，便能夠把一個任意矩陣調整成Max Heap。
 
+* 以圖為例，Binary Heap共有9個node，便從index(4)往index(1)，逐一對node進行`MaxHeapify()`，即可得到Max Heap。
+![](/classnote/images/BuildMaxHeap.gif)
+> 只需要對有child的node進行調整，因為Max Heap的規則是「比較root的數值與child的數值」，如果是沒有child的node，就一定不會違反Max Heap的規則。
 
 
 
