@@ -30,6 +30,8 @@
 1. 移動所有比基準值大的數字。
 1. 插入基準值。
 1. 回到第2個步驟。
+
+![](/classnote/images/insertionsort.gif)
 ## python符號(補充)
 |python 符號|意思|
 |:-:|:-|
