@@ -35,7 +35,7 @@
 |not in|不屬於|
 
 # Heap Sort
-###函式：MaxHeapify
+### 函式：MaxHeapify
 
 `MaxHeapify()`的功能，是要「由上而下」地，以Max Heap的規則(**root**的數值「大於」兩個**child**的數值)，調整矩陣。
 
