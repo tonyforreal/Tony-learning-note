@@ -66,7 +66,6 @@
     * subtree「index(2)-index(4)-index(5)」的數值分別為「9-1-4」，符合Max Heap。
 * 繼續以index(largest)當作新的subtree的root，檢查新的subtree是否符合Max Heap規則。
     * 下圖中，subtree「index(4)-index(8)-index(9)」再次不滿足Max Heap。![](/classnote/images/heap2.png)
-* 重複上述步驟，得到下圖。
-![](/classnote/images/heap3.png)
+* 重複上述步驟，得到下圖。![](/classnote/images/heap3.png)
 如此一來，有被`MaxHeapify()`檢查過的subtree，都會符合Max Heap規則。
 因此，只要對所有「具有child的node」檢查一次`MaxHeapify()`，便能夠把一個任意矩陣調整成Max Heap。
