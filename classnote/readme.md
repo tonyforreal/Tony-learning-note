@@ -45,10 +45,15 @@
 # Heap Sort
 
 ## Heap:
-> Heap的結構可以視作Complete Binary Tree
+### 1.Heap的結構可以視作Complete Binary Tree
 * 其**left child**必定位在index(2i)
 * 其**right child**必定位在index(2i+1)
 * 其**parent**必定位在index(i/2)
+### 2.Max Heap：
+> 在每一個subtree中，root之「數值」要比兩個child之「數值」還要大，如下圖：
+![](/classnote/images/heapsort.png)
+* value(i)>value(2i)
+* value(i)>value(2i+1)
 ## MaxHeapify:
 
 `MaxHeapify()`的功能，是要「由上而下」地，以Max Heap的規則(**root**的數值「大於」兩個**child**的數值)，調整矩陣。
