@@ -1,7 +1,5 @@
 # 目錄：
 * [Stack&Queue](#stackqueue)
-   * [Stack](#stack-必須有的功能)
-   * [Queue](#queue-必須有的功能)
 * [Insertion Sort](#insertion-sort)
 * [Heap Sort](#heap-sort)
   * [Heap](#heap)
