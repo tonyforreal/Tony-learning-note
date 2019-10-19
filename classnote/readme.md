@@ -4,7 +4,8 @@
    * [Queue](#queue-必須有的功能)
 * [Insertion Sort](#insertion-sort)
 * [Heap Sort](#heap-sort)
-
+  * [Heap](#heap)
+  * [Heapify](#maxheapify)
 
 # Stack&Queue
 
