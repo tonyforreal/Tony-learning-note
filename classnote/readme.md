@@ -48,7 +48,7 @@
 > Heap的結構可以視作Complete Binary Tree
 * 其**left child**必定位在index(2i)
 * 其**right child**必定位在index(2i+1)
-* 其**parent**必定位在index(⌊i/2⌋)
+* 其**parent**必定位在index(i/2)
 ## MaxHeapify:
 
 `MaxHeapify()`的功能，是要「由上而下」地，以Max Heap的規則(**root**的數值「大於」兩個**child**的數值)，調整矩陣。
