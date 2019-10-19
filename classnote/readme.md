@@ -5,7 +5,7 @@
   * [Heap](#heap)
   * [Heapify](#maxheapify)
 
-# Stack&Queue
+# Stack&Queue(09/23-09/29)
 
 ## Stack 必須有的功能
 * **Push(Data)**: 把資料放到最上面(最新)。
@@ -22,7 +22,7 @@
 * **IsEmpty**: 確認 Queue 裡是否有資料。
 * **getSize**: 確認 Queue 裡的資料個數。
 
-# Insertion Sort
+# Insertion Sort(09/30-10/06)
 ## 步驟
 1. 第一個(最左邊)的數字直接做為已排序的頭。
 1. 將下一個值(右邊)作為基準值。
@@ -43,7 +43,7 @@
 |in|屬於|
 |not in|不屬於|
 
-# Heap Sort
+# Heap Sort(10/14-10/20)
 
 ## Heap:
 ### 1.Heap的結構可以視作Complete Binary Tree
