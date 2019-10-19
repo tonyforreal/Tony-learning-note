@@ -59,10 +59,10 @@
 
 * 找到這三者的最大值，並以`int largest`記錄該最大值的index。
     * 下圖中，把`largest`記錄為index(4)。
-    ![](/classnote/images/heapsort.png)
 * 將index(root)與index(largest)這兩個node互換位置，如此一來，當前的subtree必定能滿足Max Heap規則。
     * 下圖中，將index(2)與index(4)的node互換。
     ![](/classnote/images/heap1.png)
+    ** 圖一 **
     * subtree「index(2)-index(4)-index(5)」的數值分別為「9-1-4」，符合Max Heap。
 * 繼續以index(largest)當作新的subtree的root，檢查新的subtree是否符合Max Heap規則。
     * 下圖中，subtree「index(4)-index(8)-index(9)」再次不滿足Max Heap。
