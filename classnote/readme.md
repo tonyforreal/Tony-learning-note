@@ -43,7 +43,13 @@
 |not in|不屬於|
 
 # Heap Sort
-### 函式：MaxHeapify
+
+## Heap:
+> Heap的結構可以視作Complete Binary Tree
+* 其**left child**必定位在index(2i)
+* 其**right child**必定位在index(2i+1)
+* 其**parent**必定位在index(⌊i/2⌋)
+## MaxHeapify:
 
 `MaxHeapify()`的功能，是要「由上而下」地，以Max Heap的規則(**root**的數值「大於」兩個**child**的數值)，調整矩陣。
 
@@ -68,3 +74,8 @@
  ![](/classnote/images/heap3.png)
  
 > 如此一來，有被`MaxHeapify()`檢查過的subtree，都會符合Max Heap規則。因此，只要對所有「具有child的node」檢查一次`MaxHeapify()`，便能夠把一個任意矩陣調整成Max Heap。
+
+
+
+
+
