@@ -1,6 +1,6 @@
 # 目錄：
 * [Stack&Queue](#Stack&Queue)
-* [Insertion Sort](#InsertionSort)
+* [Insertion Sort](#insertion-sort)
 * [Heap Sort](#heap-sort)
 
 
