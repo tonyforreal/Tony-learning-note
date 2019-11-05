@@ -1,3 +1,7 @@
+# 流程圖:
+
+![](/classnote/images/heapsort_ag.jpg)
+
 
 # Fail1:
 ### 這是我看完老師的ppt後第一次打出來的東西，我的想法是先定義一個heapify的函式，其中也定義root跟child，因為我是用Maxheap所以如果parent小於child，則兩者需要換位子。接著第一個for迴圈是作Maxheap，因為是Maxheap的關係所以最下層的child都不會是任何元素的parent，不需要經過heapify;而最上面的root會是最後一位parent，所以for迴圈要在-1的位子停止;方向是-1，所以我的range是設(n//2-1,-1,-1)，每次i的值都要去跑heapify。第二個for迴圈是將Maxheap做排序，目標是從最後一個位子到第二個位子(因為第二個位子排序好之後Maxheap裡面就剩一個數就不需要排序)，所以range設(n-1,0,-1)，把root跟最後一個數做交換，root不看，剩下的tree再進行heapify後繼續把新的root搬下來，重複步驟後list就完成sorting了。
