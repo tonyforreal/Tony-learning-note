@@ -141,14 +141,14 @@ class Solution(object):
         self_val = arr[ind]
         par_val = arr[par_ind]
         
-        if par_val < self_val: #swap 若parent大於child則換位子(因為是minheap)
+        if par_val < self_val: #swap 若parent小於child則換位子(因為是Maxheap)
             arr[ind] = par_val
             arr[par_ind] = self_val
             
         self.checkup(par_ind,arr)
         
     
-    def heapify(self, arr:list): #將輸入的list變成heap(minheap)
+    def heapify(self, arr:list): #將輸入的list變成heap(Maxheap)
         for i in reversed(range(len(arr))): #從大到小開始找
             self.checkup(i,arr) #尋找parent 需要時換位子
             
@@ -192,14 +192,14 @@ class Solution(object):
         self_val = arr[ind]
         par_val = arr[par_ind]
         
-        if par_val < self_val: #swap 若parent大於child則換位子(因為是minheap)
+        if par_val < self_val: #swap 若parent小於child則換位子(因為是Maxheap)
             arr[ind] = par_val
             arr[par_ind] = self_val
             
         self.checkup(par_ind,arr)
         
     
-    def heapify(self, arr:list): #將輸入的list變成heap(minheap)
+    def heapify(self, arr:list): #將輸入的list變成heap(Maxheap)
         for i in reversed(range(len(arr))): #從大到小開始找
             self.checkup(i,arr) #尋找parent 需要時換位子
             
