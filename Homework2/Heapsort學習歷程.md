@@ -62,7 +62,7 @@ Solution().heap_sort([3,2,-4,5,4,19])
 # Fail2:
 ### 第二次我把第一次程式碼的兩個for迴圈都define成函式，第一個for迴圈改為 def buildheap(self,nums):，第二個for迴圈則改成def sift(self,nums):，而在詢問簡大為同學關於如何在heap_sort時將其他函式加進來後，我學會使用self.函式()的方法。
 
-### 失敗原因：在sift之後我不知道如何將root轉移出Maxheap，導致下一行heapify時又會將root丟回去，進而導致最後的答案錯誤。
+### 失敗原因：在sift之後我不知道如何將root轉移出Maxheap，導致下一行heapify時又會將root丟回去跑heapify()，進而導致最後的答案錯誤。
 
 
 ```python
@@ -111,7 +111,7 @@ Solution().heap_sort([3,2,-4,5,4,19])
 
 
 # Final:
-### 無奈之下我只好再次詢問簡大為同學的code，了解後我隔日自己照著想法再打一次，且稍微改變了我與他之間的程式碼，由於簡大為同學的code適用minheap的觀念，我挑戰自己去用Maxheap的觀念試一次，最後我還以為成功打出可以運行的heapsort時卻發現我的list是從大排到小，於是我去網路上查詢如何讓list倒轉過來後，才弄出正確答案。
+### 無奈之下我只好再次詢問簡大為同學的code，了解後我隔日照著自己理解的想法再打一次，且稍微改變了我與他之間的程式碼，由於簡大為同學的code是使用minheap，我挑戰自己去用Maxheap試一次，最後我還以為成功打出可以運行的heapsort時卻發現我的list是從大排到小，於是我去網路上查詢如何讓list倒轉過來後，才弄出正確答案。
 
 
 ```python
