@@ -1,6 +1,6 @@
 # Welcome to Tony-learning-note!
 > 這裡會放上資料結構的上課筆記
-![](https://github.com/blakeli119/blakeli1109/blob/master/S__41304068.jpg)
+
 
 
 ## 建立你自己的 Repository
