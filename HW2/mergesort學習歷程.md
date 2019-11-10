@@ -1,4 +1,6 @@
+# 流程圖：
 
+![](/classnote/images/mergesort_ad.jpg)
 # 學習歷程：
 ## Fail1：
 * 我的想法是先準備一個answer的list來裝每次比較完後比較小的數，第一步是先分割，mid是整段list的中間值，mid左邊的放在leftlist，mid跟mid右邊的index放在rightlist裡。接著是合併，我在合併的地方卡很久，沒辦法之下我只好去參考https://stackoverflow.com/questions/18761766/mergesort-with-python ，隔日自己在重打一次，但我注意到我的答案又反過來了，於是我又用了上次heapsort學到的list.reverse()。
