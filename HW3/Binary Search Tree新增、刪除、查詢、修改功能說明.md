@@ -39,3 +39,4 @@
 # 參考資料：
 ## https://medium.com/@Kadai/%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B%E5%A4%A7%E4%BE%BF%E7%95%B6-binary-search-tree-3c40be3204e
 ## https://github.com/tonyforreal/Tony-learning-note/blob/master/HW3/BST%E5%8A%9F%E8%83%BD%E8%AA%AA%E6%98%8E.md
+## http://alrightchiu.github.io/SecondRound/binary-search-tree-searchsou-xun-zi-liao-insertxin-zeng-zi-liao.html
