@@ -6,13 +6,13 @@
 ### 而時間複雜度則是看二元樹的高度決定，最佳情況為O(1)，平均情況與最差情況為O(log n)。
 
 # 流程圖：
-## insert:
+# insert:
 ![](/classnote/images/insert.jpg)
-## delete:
+# delete:
 ![](/classnote/images/delete.jpg)
-## search:
+# search:
 ![](/classnote/images/search.jpg)
-## modify:
+# modify:
 ![](/classnote/images/modify.jpg)
 
 # 學習歷程：
