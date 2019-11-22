@@ -93,6 +93,9 @@ class Solution(object):
         if y is not None and y.val == target: 
             x = x + 1 
             y = y.left 
+        elif y is None:
+            return None
+        
         self.delete(root,target) 
         
         for i in range(x): 
