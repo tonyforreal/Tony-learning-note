@@ -7,10 +7,13 @@
 
 # 流程圖：
 ## insert:
+![](/classnote/images/insert.jpg)
 ## delete:
+![](/classnote/images/delete.jpg)
 ## search:
+1[](/classnote/images/search.jpg)
 ## modify:
-
+![](/classnote/images/modify.jpg)
 
 # 學習歷程：
 ## insert:
