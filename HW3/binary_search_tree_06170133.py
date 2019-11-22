@@ -4,7 +4,6 @@ class TreeNode(object):
         self.left = None
         self.right = None
 
-
 class Solution(object):
     def __init__(self):
          self.sear = None
@@ -66,6 +65,7 @@ class Solution(object):
             root.val = x.val
             root.left = self.delete(root.left,root.val)
             return root
+        
     def delete(self, root, target):
         if self.target is None:
             self.target = target
