@@ -43,9 +43,6 @@ class MyHashSet:
         else:
             return
         
-
-            
-            
     def contains(self, key):
         x = int(MD5.new(key.encode("utf-8")).hexdigest(),16)
         y = x % self.capacity
