@@ -62,3 +62,4 @@ class MyHashSet:
 #https://medium.com/ccclub/ccclub-python-for-beginners-tutorial-ae8becaf165e
 #https://www.nosuchfield.com/2016/07/29/the-python-implementationp-of-HashTable/
 #https://github.com/tonyforreal/Tony-learning-note
+#https://github.com/yunghsin615/little_sun
