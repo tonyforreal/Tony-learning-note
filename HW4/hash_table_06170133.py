@@ -25,24 +25,24 @@ class MyHashSet:
             return
         
     def remove(self, key):
-        if self.contains(key) == True:
-            x = int(MD5.new(key.encode("utf-8")).hexdigest(),16)
-            y = x%self.capacity
-            z = self.data[y]
-            
-            if z.val == x:
-                if z.next is True:
-                    self.data[y] = z.next
-                else:
-                    self.data[y] = None
+        x = int(MD5.new(key.encode("utf-8")).hexdigest(),16)
+        y = x%self.capacity
+        z = self.data[y]
+       
+        if self.contains(key) != True:
+            return 
         
-            else:
-                while z.next.val != x:
-                    z = z.next
-                    
         else:
-            return
-        
+            if z.val == x:
+                self.data[y] = self.data[y].next
+                return 
+
+            else:
+                point = self.data[y]
+                while point.next.val != x:
+                    point = point.next
+                point.next = point.next.next
+                
     def contains(self, key):
         x = int(MD5.new(key.encode("utf-8")).hexdigest(),16)
         y = x % self.capacity
