@@ -478,3 +478,4 @@ print(rel)
 ## https://www.nosuchfield.com/2016/07/29/the-python-implementationp-of-HashTable/
 ## https://github.com/yunghsin615/little_sun
 ## https://github.com/tonyforreal/Tony-learning-note
+## https://www.itread01.com/content/1544463207.html
