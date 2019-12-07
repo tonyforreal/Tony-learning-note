@@ -11,7 +11,9 @@ class MyHashSet:
         self.data = [None] * capacity
     
     def add(self, key):
-        x = int(MD5.new(key.encode("utf-8")).hexdigest(),16)
+        h = MD5.new()
+        h.update(key.encode("utf-8"))
+        x = int(h.hexdigest(),16)
         y = x%self.capacity
         
         if self.contains(key) != True:
@@ -25,7 +27,9 @@ class MyHashSet:
             return
         
     def remove(self, key):
-        x = int(MD5.new(key.encode("utf-8")).hexdigest(),16)
+        h = MD5.new()
+        h.update(key.encode("utf-8"))
+        x = int(h.hexdigest(),16)
         y = x%self.capacity
         z = self.data[y]
        
@@ -44,8 +48,10 @@ class MyHashSet:
                 point.next = point.next.next
                 
     def contains(self, key):
-        x = int(MD5.new(key.encode("utf-8")).hexdigest(),16)
-        y = x % self.capacity
+        h = MD5.new()
+        h.update(key.encode("utf-8"))
+        x = int(h.hexdigest(),16)
+        y = x%self.capacity
         z = self.data[y]
         
         while z:
