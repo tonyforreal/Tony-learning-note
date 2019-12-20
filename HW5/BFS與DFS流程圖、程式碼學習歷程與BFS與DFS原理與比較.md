@@ -9,8 +9,9 @@
 
 # 流程圖：
 ## BFS：
+![](/classnote/images/BFS.jpg)
 ## DFS：
-
+![](/classnote/images/DFS.jpg)
 # 學習歷程：
 ## Try 1：
 
