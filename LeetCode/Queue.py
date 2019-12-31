@@ -38,7 +38,7 @@ class MyQueue:
         return m#傳回新的self.x的值
             
 
-    def peek(self) -> int:#他要self裡面的第一個數，也就是最底下的那個
+    def peek(self) -> int:#他要self裡面的第一個數，也就是最先進來的那個
         """
         Get the front element.
         """
