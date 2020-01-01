@@ -1,6 +1,8 @@
 # Leetcode
 > **這裡會放上刷題的答案與summit結果**
 
+
+
 ### 1.Designed Linked List [題目](https://leetcode.com/problems/design-linked-list/)
 
 
