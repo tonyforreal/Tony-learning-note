@@ -1,4 +1,4 @@
-class LinkedList:
+class MyLinkedList:
 
     def __init__(self):
         """
