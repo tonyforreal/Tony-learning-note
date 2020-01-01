@@ -23,4 +23,14 @@
 ![](/LeetCode/Summits/SortanArray.png)
 * [我的解答](https://github.com/tonyforreal/Tony-learning-note/blob/master/LeetCode/SortAnArray.py)
 
+### 5.Reverse Integer [題目](https://leetcode.com/problems/reverse-integer/)
+![](/LeetCode/Summits/reverse-integer.png)
+* [我的解答](https://github.com/tonyforreal/Tony-learning-note/blob/master/LeetCode/Reverse-Integer.py)
 
+### 6.Palindrome Number [題目](https://leetcode.com/problems/palindrome-number/)
+![](/LeetCode/Summits/palindrome-number.png)
+* [我的解答](https://github.com/tonyforreal/Tony-learning-note/blob/master/LeetCode/Palindrome-Number.py)
+
+### 7.Roman To Integer [題目](https://leetcode.com/problems/roman-to-integer/)
+![](/LeetCode/Summits/roman-to-integer.png)
+* [我的解答](https://github.com/tonyforreal/Tony-learning-note/blob/master/LeetCode/Roman-To-Integer.py)
