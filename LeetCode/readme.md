@@ -4,7 +4,8 @@
 
 
 ### 1.Designed Linked List [題目](https://leetcode.com/problems/design-linked-list/)
-
+![](/LeetCode/Summits/LinkedList.png)
+* [我的解答](https://github.com/tonyforreal/Tony-learning-note/blob/master/LeetCode/LinkedList.py)
 
 
 ### 2-1.MinStack [題目](https://leetcode.com/problems/min-stack/)
