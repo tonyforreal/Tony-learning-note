@@ -22,19 +22,22 @@
 ![](/LeetCode/Summits/Queue.png)
 * [我的解答](https://github.com/tonyforreal/Tony-learning-note/blob/master/LeetCode/Queue.py)
 
+### 4.Implement Stack using Queues [題目](https://leetcode.com/problems/implement-stack-using-queues/)
+![](/LeetCode/Summits/implement-stack-using-queues.png)
+* [我的解答](https://github.com/tonyforreal/Tony-learning-note/blob/master/LeetCode/Implement-Stack-using-Queues.py)
 
-### 4.Sort an Array [題目](https://leetcode.com/problems/sort-an-array/submissions/)
+### 5.Sort an Array [題目](https://leetcode.com/problems/sort-an-array/submissions/)
 ![](/LeetCode/Summits/SortanArray.png)
 * [我的解答](https://github.com/tonyforreal/Tony-learning-note/blob/master/LeetCode/SortAnArray.py)
 
-### 5.Reverse Integer [題目](https://leetcode.com/problems/reverse-integer/)
+### 6.Reverse Integer [題目](https://leetcode.com/problems/reverse-integer/)
 ![](/LeetCode/Summits/reverse-integer.png)
 * [我的解答](https://github.com/tonyforreal/Tony-learning-note/blob/master/LeetCode/Reverse-Integer.py)
 
-### 6.Palindrome Number [題目](https://leetcode.com/problems/palindrome-number/)
+### 7.Palindrome Number [題目](https://leetcode.com/problems/palindrome-number/)
 ![](/LeetCode/Summits/palindrome-number.png)
 * [我的解答](https://github.com/tonyforreal/Tony-learning-note/blob/master/LeetCode/Palindrome-Number.py)
 
-### 7.Roman To Integer [題目](https://leetcode.com/problems/roman-to-integer/)
+### 8.Roman To Integer [題目](https://leetcode.com/problems/roman-to-integer/)
 ![](/LeetCode/Summits/roman-to-integer.png)
 * [我的解答](https://github.com/tonyforreal/Tony-learning-note/blob/master/LeetCode/Roman-To-Integer.py)
