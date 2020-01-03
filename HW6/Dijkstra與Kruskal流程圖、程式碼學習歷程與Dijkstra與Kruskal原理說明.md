@@ -9,9 +9,11 @@
 
 # 流程圖：
 ## Dijkstra:
-
+![](/classnote/images/dijkstra.jpg)
 
 ## Kruskal:
+![](/classnote/images/kruskal.jpg)
+
 
 # 學習歷程：
 ## Dijkstra:
