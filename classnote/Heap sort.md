@@ -16,7 +16,9 @@ Heap(Binary Heap) 是以 tree(樹) 為基礎的資料結構, 他有以下特點:
 1. 將 array 轉換成 Maxheap 。
 2. 此時 root 的值為 max 。將 root 值與最後一個 index 的值互換，然後將heap 的大小 -1 ，也就是把排序過最大的值丟到 array後面，使其index不再之後處理的範圍內。
 3. 重複以上動作，直到 heap 的大小 =1(剩下一個 element)。
+![](/classnote/images/BuildMaxHeap.gif)
 
+## 時間複雜度
 時間複雜度不論是最佳或最糟或平均狀況都為 O(nlogn)
 
 
