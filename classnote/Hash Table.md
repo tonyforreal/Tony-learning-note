@@ -21,7 +21,7 @@ hash function 可以把不規則的資料(像是字串)轉成特定index(在有�
 
 - Less collisions (少碰撞):碰撞就是有兩個 key 會對應到同個 hash value(index)，這是要避免的。
 
-> Note: 幾乎所有 hash function 都會有碰撞(Collision)問題，所以在做 hash table 時要注意如果發生碰撞要如何處理。
+
 
 ## MD5 Hash
 This hash function accepts sequence of bytes and returns 128 bit hash value, usually used to check data integrity but has security issues.
