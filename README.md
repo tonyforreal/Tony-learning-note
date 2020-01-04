@@ -24,36 +24,36 @@
 - [github](/classnote/Github.md)
 
 ### week 2
-- [linked-List]()
+- [linked-List](/classnote/LinkedList.md)
 
 ### week 3
-- [Stack & Queue]()
+- [Stack & Queue](/classnote/Stack%20%26%20Queue.md)
 
 ### week 4
-- [set]() 
-- [Insertion Sort]() 
+- [set](/classnote/Set.md) 
+- [Insertion Sort](/classnote/Insertion%20Sort.md) 
 
 ### week 5
-- [Quick-Sort]()
-- [HW1: Quick Sort]()
+- [Quick-Sort](/classnote/Quick%20Sort.md)
+- [HW1: Quick Sort](HW1)
 
 ### week 6
-- [Heap Sort]()
+- [Heap Sort](/classnote/Heap%20sort.md)
 
 ### week 7
-- [Merge Sort]()
-- [HW2-merge_sort]()
-- [HW2-heap_sort]()
+- [Merge Sort](/classnote/Merge%20Sort.md)
+- [HW2-merge_sort](HW2)
+- [HW2-heap_sort](HW2)
 
 ### week 8
-- [Binary Tree]()
+- [Binary Tree](/classnote/Binary%20Tree.md)
 
 ### week 9
-- [Binary Search Tree]()
-- [HW3-BST]()
+- [Binary Search Tree](/classnote/Binary%20Search%20Tree.md)
+- [HW3-BST](HW3)
 
 ### week 10
-- Red Black Tree
+- [Red Black Tree](/classnote/Red%20Black%20Tree.md)
 
 ### week 11 
 - [Hash Table]()
