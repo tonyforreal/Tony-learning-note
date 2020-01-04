@@ -1,6 +1,6 @@
 
 
-# Welcome to My Learning Note 
+# Welcome to Tony Learning Note 
 此Repository會紀錄大三上的資料結構與演算法課程中所有的上課內容，包含各種演算法的原理與實現過程，以及課堂作業、Leetcode、Codesignal的解答與學習歷程
 
 # 檔案結構
