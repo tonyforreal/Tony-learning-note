@@ -3,7 +3,8 @@
 
 ## 什麼是 github ?
 
-
+你可以跟其它厲害的開發者們交朋友，你可以幫忙貢獻其它人的專案，其它人也可以回饋到你的專案，建立良性循環。
+同時，它也是開發者最好的履歷。你曾經做過哪些專案、做過哪些貢獻、寫過哪些 Code，一目了然。
 
 > GitHub 的核心 Git 
 
@@ -11,16 +12,9 @@
 儘管它主要用途是管理程式代碼，但Git可用於管理任何其他類型的文件，所以可以將其視為所有文檔的歸檔系統。
 
 ## 個人頁面
-![](https://i.imgur.com/1TUxAJF.png)
-
-- 黃色的部分: 可以編輯個人檔案
-
-- 藍色的部分: 顯示紅色部分對應的頁面
-
-- 紅色的部分: 有七個按鈕
   - **Overview**: 你最受歡迎的 repository(包含fork的)、活躍度、近期的動作
   
-  - **Repository**: 這邊可以看到所有你的 Repository，還有一年內的活躍度。也可以創建新的 Repository >>> <img src='https://i.imgur.com/H1zpxTS.png' weight='50' height='20'>
+  - **Repository**: 可以看到所有的 Repository，還有一年內的活躍度。也可以創建新的 Repository 
   
   - **Projects**: 每個 Repository 都可以建立自己的 Project，Project 可以規劃專案、排序任務、追蹤任務狀態、分享狀態等等，採用看板的方式顯示，和 trello 的相似度頗高，除了本身的功能以外，Project 的卡片和 Github Issue 的功能之間也有很高的密切度，細節功能十分完善，接下來我們就一一來介紹。
 詳細操作>>> [點這邊](https://ithelp.ithome.com.tw/articles/10205003?sc=iThelpR)
@@ -28,11 +22,10 @@
   - **Package**: GitHub Package Registry是一個軟件包託管服務，類似於 npmjs.org，rubygems.org或hub.docker.com，可讓您將軟件包和代碼託管在一個地方。
 您可以私下或公開託管軟件包，並將其用作為項目中的依賴項。 使用方式>>> [點這邊](https://help.github.com/en/articles/about-github-package-registry)
 
-  - **Star**: 當你覺得別人的 Repository 做的很棒，你可以給他星星。這邊會顯示你給過星星的 Repository。>>> 給自己也沒問題喔~
+  - **Star**: 當你想看別人的Repository卻又不想直接fork過來，你可以給他星星，這樣就不怕之後找不到他的Repository。
+  - **Followers**: 追蹤你的人
   
-  - **Followers**: 你的粉絲...
-  
-  - **Following**: 你的偶像...
+  - **Following**: 你追蹤的人
 
 ## 建立你自己的 Repository
 ### Step 1: New Repository
