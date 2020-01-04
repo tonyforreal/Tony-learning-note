@@ -12,3 +12,4 @@ Mergesort又稱合併排序，是一種 Divide and Conquer 的演算法，它是
 
 
 ## 時間複雜度
+與Heapsort一樣，不論最佳、最糟或平均狀況都為O(nlogn)
