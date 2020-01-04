@@ -31,7 +31,7 @@
 - [Stack & Queue](/classnote/Stack%20%26%20Queue.md)
 
 ### week 4
-- [set](/classnote/Set.md) 
+- [Set](/classnote/Set.md) 
 - [Insertion Sort](/classnote/Insertion%20Sort.md) 
 
 ### week 5
