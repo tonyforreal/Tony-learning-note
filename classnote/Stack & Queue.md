@@ -1,4 +1,5 @@
 # Stack & Queue
+![](/classnote/img-for-readme/stack&queue.png)
 ## Stack的應用
 * 網頁瀏覽器中回到上一頁功能。
 * 任何遞迴(recursion)形式的演算法都可以用 Stack 改寫，例如 Depth-First Search(DFS,深度優先搜尋)
