@@ -7,4 +7,4 @@
 * Block Chain 應用
 
 **linked-List 它是屬於線性的資料結構**，如上圖所示，線性的資料結構就是透過有順序的 **節點** or **元素** 所構成，可以將其比如成跳房子遊戲，我麼需要按照一定的順序去遍歷所有的節點。相反的非線性結構就不需要按照順序去遍歷。
-![](/https://camo.githubusercontent.com/59fe02852392ebd26250d2f7840eaff43b06971a/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323039302f312a586f6b6b36584f6a577949474342756a6b4a73437a512e6a706567)
+![](/classnote/img-for-readme/linkedlist.jpeg)
