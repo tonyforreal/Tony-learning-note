@@ -21,7 +21,7 @@
 
 # 課堂筆記
 ### week 1
-- [github]()
+- [github](/classnote/Github.md)
 
 ### week 2
 - [linked-List]()
