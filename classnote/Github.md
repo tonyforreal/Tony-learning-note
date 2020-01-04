@@ -31,10 +31,10 @@
 ### Step 1: New Repository
 > 點擊 Repository -> New
 
-![](https://i.imgur.com/w2rIny7.png) 
+
 > 填寫 `Repository name` ，作為之後的網址和 Repository 的名稱。下面 `README` 要勾。最後點擊 `Create repository.`
 
-![](https://i.imgur.com/quzPcWp.png)
+
 
 ### Step 2: 建立 Readme.md
 > Readme.md 是一個 markdown 的格式。在 Repository 下每個頁面(資料夾) ，github會直接將 readme.md的檔 顯示在檔案的底下，也就是說它是一個說明檔，說明你當前的頁面在做甚麼?
