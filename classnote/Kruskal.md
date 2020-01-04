@@ -4,4 +4,4 @@ MST也是一種 graph 的延伸，他注重在點與點之間的一個量值(cos
 > 利用貪婪演算法(greedy algorithm)的思維，也就是每一步都要採取最佳的選擇，進而讓結果也會是最佳的演算法
 
 ![](https://i.imgur.com/V2FHxJF.png)
-min = 1+3+2+5=11
+### min = 1+3+5+2=11
