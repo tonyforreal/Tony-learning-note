@@ -15,6 +15,7 @@
 ### 自主練習
 - [Codesignal](CodeSignal)
 - [Leetcode](Leetcode)
+- [CS50](CS50)
 
 ### 課堂筆記存放區
 - [classnote](classnote)
@@ -49,31 +50,41 @@
 - [Binary Tree](/classnote/Binary%20Tree.md)
 
 ### week 9
+- AWS EC2補充
+
+### week 10
 - [Binary Search Tree](/classnote/Binary%20Search%20Tree.md)
 - [HW3-BST](HW3)
 
-### week 10
-- [Red Black Tree](/classnote/Red%20Black%20Tree.md)
-
 ### week 11 
-- [Hash Table]()
-- [HW4-hash_table]()
+- [Red Black Tree](/classnote/Red%20Black%20Tree.md)
+- [Hash Table](/classnote/Hash%20Table.md)
+- [HW4-hash_table](HW4)
 
 ### week 12
-- [Breadth-First Search]()
+- [Breadth-First Search](/classnote/Breadth-First%20Search.md)
 
 ### week 13 
-- [Depth-First Search]()
-- [HW5-DFS&BFS]()
+- [Depth-First Search](/classnote/Depth-First%20Search.md)
+- [HW5-DFS&BFS](HW5)
 
 ### week 14
-- [Minimum Spanning Tree - Kruskal]()
+- [Minimum Spanning Tree - Kruskal](/classnote/Kruskal.md)
 
 ### week 15
-- [Shortest Path - Dijkstra]()
+- [Shortest Path - Dijkstra](/classnote/Dijkstra.md)
+
+### week 16
+- [HW6-Dijkstra&Kruskal](HW6)
+
+### week 17
+- 期末考
+
+### week 18
+- 回家投票
 
 ### leetcode
-- [code]()
+- [code](Leetcode)
 ---
 
 # 自我簡介:
