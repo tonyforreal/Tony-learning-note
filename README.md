@@ -90,7 +90,7 @@
 - 期末考
 
 ### week 18
-- 回家投票
+- 停課
 
 ### leetcode
 - [code](Leetcode)
