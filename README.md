@@ -92,8 +92,7 @@
 ### week 18
 - 停課
 
-### leetcode
-- [code](Leetcode)
+
 ---
 
 
