@@ -25,7 +25,7 @@
 - [Leetcode](Leetcode)
 - [CS50](CS50)
 
-### 課堂筆記存放區
+### 課堂筆記
 - [classnote](classnote)
 
 # 課堂筆記
