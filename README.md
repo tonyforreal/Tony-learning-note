@@ -21,7 +21,7 @@
 - [HW6 (Dijkstra & Kruskal)](HW6)
 
 ### 自主練習
-- [Codesignal](CodeSignal)
+- [Codesignal](Codesignal)
 - [Leetcode](Leetcode)
 - [CS50](CS50)
 
