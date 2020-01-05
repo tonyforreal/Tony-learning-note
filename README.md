@@ -58,14 +58,15 @@
 - [Binary Tree](/classnote/Binary%20Tree.md)
 
 ### week 9
-- AWS EC2補充
-
-### week 10
 - [Binary Search Tree](/classnote/Binary%20Search%20Tree.md)
 - [HW3-BST](HW3)
 
-### week 11 
+### week 10
+- [Binary Search Tree](/classnote/Binary%20Search%20Tree.md)
 - [Red Black Tree](/classnote/Red%20Black%20Tree.md)
+
+### week 11 
+
 - [Hash Table](/classnote/Hash%20Table.md)
 - [HW4-hash_table](HW4)
 
