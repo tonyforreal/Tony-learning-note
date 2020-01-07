@@ -1,5 +1,5 @@
 # Leetcode
-
+LeetCode是一個收集軟體工程師面試考古題的網站，且可以用各種語言作答，非常適合自主練習
 
 ## 1.Two Sum 
 [題目](https://leetcode.com/problems/two-sum/)
