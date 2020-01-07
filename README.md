@@ -14,7 +14,14 @@
 # 檔案結構
 ### 課堂作業
 - [HW1 (Quicksort)](HW1)
+  -[Quicksort程式碼](/HW1/quicksort.ipynb)
+  -[Quicksort學習歷程](/HW1/readme.md)
 - [HW2 (Heapsort & Mergesort)](HW2)
+  -[Heapsort程式碼](/HW2/heap_sort_06170133.py)
+  -[Mergesort程式碼](/HW2/merge_sort_06170133.py)
+  -[Heapsort&Mergesort比較](/HW2/heapsort%26mergesort比較.md)
+  -[Heapsort學習歷程](/HW2/Heapsort學習歷程.md)
+  -[Mergesort學習歷程](/HW2/mergesort學習歷程.md)
 - [HW3 (BST)](HW3)
 - [HW4 (Hash Table)](HW4)
 - [HW5 (BFS & DFS)](HW5)
