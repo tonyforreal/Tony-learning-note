@@ -23,9 +23,18 @@
   - [Heapsort學習歷程](/HW2/Heapsort學習歷程.md)
   - [Mergesort學習歷程](/HW2/mergesort學習歷程.md)
 - [HW3 (BST)](HW3)
+  - [BST程式碼](/HW3/binary_search_tree_06170133.py)
+  - [BST流程圖、學習歷程與BST原理](/HW3/Binary%20Search%20Tree流程圖、學習歷程與BST原理.md)
+  - [BST新增、刪除、查詢、修改功能說明](/HW3/Binary%20Search%20Tree新增、刪除、查詢、修改功能說明.md)
 - [HW4 (Hash Table)](HW4)
+  - [Hash Table程式碼](/HW4/hash_table_06170133.py)
+  - [Hash Table流程圖、學習歷程與Hash Table與Hash Function原理](/HW4/Hash%20Table流程圖、學習歷程與Hash%20Table與Hash%20Function原理.md)
 - [HW5 (BFS & DFS)](HW5)
+  - [BFS&DFS程式碼](/HW5/BFS_06170133.py)
+  - [BFS與DFS流程圖、程式碼學習歷程與BFS與DFS原理與比較](/HW5/BFS與DFS流程圖、程式碼學習歷程與BFS與DFS原理與比較.md)
 - [HW6 (Dijkstra & Kruskal)](HW6)
+  - [Dijkstra&Kruskal程式碼](/HW6/Dijkstra_06170133.py)
+  - [Dijkstra與Kruskal流程圖、程式碼學習歷程與Dijkstra與Kruskal原理說明](/HW6/Dijkstra與Kruskal流程圖、程式碼學習歷程與Dijkstra與Kruskal原理說明.md)
 
 ### 自主練習
 - [Codesignal](Codesignal)
