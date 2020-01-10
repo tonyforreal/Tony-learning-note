@@ -51,6 +51,11 @@
   - [Min Stack](/Leetcode/155_Min%20Stack_06170133.py)
   - [README](/Leetcode/README.md)
 - [CS50](CS50)
+  - [week3](/CS50/week3.md)
+  - [week4](/CS50/week4.md)
+  - [week5](/CS50/week5.md)
+  - [week7](/CS50/week7.md)
+  - [week8](/CS50/week8.md)
   - [README](/CS50/README.md)
 
 ### 課堂筆記
