@@ -24,3 +24,7 @@ n.bit_length()為python求二進位的長度
 ## 6. ![](/Codesignal/image/Python%206.png)
 ### 解析
 題目其實是要我們分辨變數n是不是整數，是的話return n除以2的餘數，不是就return -1，而我打的n%1==0就是為了判斷n是不是整數，一旦n除以1的餘數為0的話就表示n一定是整數。
+
+## 7. ![](Codesignal/image/Python 7.png)
+### 解析
+在網路上以及某次課堂作業中學到`sorted()`的寫法，填上後發現沒錯。
