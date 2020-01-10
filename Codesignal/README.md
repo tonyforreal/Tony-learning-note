@@ -27,5 +27,5 @@ n.bit_length()為python求二進位的長度
 
 ## 7. ![](/Codesignal/image/Python%207.png)
 ### 解析
-在網路上以及某次課堂作業中學到`sorted()`的寫法，填上後發現沒錯。
+在網路上以及某次課堂作業中學到`sorted()`來排序的寫法，填上後發現沒錯。
 
